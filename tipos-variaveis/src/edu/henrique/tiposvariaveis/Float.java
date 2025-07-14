@@ -10,4 +10,9 @@ public class Float {
      // Números decimais grandes até 1.79769313486231570E+308
      double d = 3.14; // 64 bits
     }
+
+    public static float parseFloat(String alturaString) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'parseFloat'");
+    }
 }
